@@ -1,0 +1,41 @@
+# Compiled binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Compiled directories
+/vendor/
+/bin/
+/out/
+/dist/
+
+# Go module cache
+/pkg/
+/mod/
+
+# Build artifacts
+*.a
+
+# Debug files
+*.log
+
+# Configuration files
+.env
+*.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# go mod and go.sum if they are not tracked
+go.sum
+go.mod
+
+# macOS and other system files
+.DS_Store
+Thumbs.db
